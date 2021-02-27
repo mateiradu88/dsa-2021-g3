@@ -6,6 +6,14 @@ Data Structures and Algorithms lab repository
 
 ### Lab02
 
+⚠️⚠️⚠️ IMPORTANT ⚠️⚠️⚠️
+
+Pull Requests name must follow the following pattern: Lab## \<nume\> \<prenume\>
+
+Ex1: Lab02 Salau Bogdan
+
+Ex2: Lab02 Salau Bogdan Extra
+
 Deadline until 28.02.2021, 20:00 for making a PR on GitHub with what you've worked.
 Deadline until 4.03.2021, 8:00 for making a PR on GitHub with the extra assignment if you finished the basic mandatory problems.
 
