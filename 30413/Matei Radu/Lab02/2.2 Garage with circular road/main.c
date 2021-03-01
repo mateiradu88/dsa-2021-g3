@@ -212,8 +212,8 @@ int main(int argc, char* argv[])
     Command current_command; //command structure containing verb and noun (function and attribute)
     garage = createEmptySLL();
     road = createEmptySLL();
-    fr= fopen("action_codes.in","r"); // file pointer definition with files from CL
-    fw= stdout; // file pointer definition with files from CL
+    fr= fopen(argv[1],"r"); // file pointer definition with files from CL
+    fw= fopen(argv[2],"w"); // file pointer definition with files from CL
     current_command.end=0;  // set EOF flag of the command to 0
     while(!current_command.end) //while command not EOF
     {
@@ -245,7 +245,6 @@ int main(int argc, char* argv[])
         {
             if(find(garage,current_command.noun))
             {
-                printf("debug:%d",current_command.noun);
                 if(garage -> first -> car_id == current_command.noun)
                 {
                     deleteByCarId(garage, current_command.noun);
