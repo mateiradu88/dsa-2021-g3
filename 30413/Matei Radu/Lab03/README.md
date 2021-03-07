@@ -1,5 +1,5 @@
-# Lab X
+# Lab 3
 
-> Edit this file and describe in a few words what you've done in this lab.
+Solved this weeks mandatory problem, even though I encountered some chalanges with string comparisons.
 
 
