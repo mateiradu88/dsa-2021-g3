@@ -94,18 +94,6 @@ int main()
 {
     NodeT *root = createBinTree( 0, NULL );
     while ('\n' != getc(stdin));
-    printf( "\nPreorder listing\n" );
-    preorder( root, 0 );
-    printf( "Press Enter to continue." );
-    while ('\n' != getc(stdin));
-    printf( "\nInorder listing\n" );
-    inorder( root, 0 );
-    printf( "Press Enter to continue." );
-    while ('\n' != getc(stdin));
-    printf( "\nPostorder listing\n" );
-    postorder( root, 0 );
-    printf( "Press Enter to continue." );
-    while ('\n' != getc(stdin));
     printf("%d", tree_height(root));
     return 0;
 }
