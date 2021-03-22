@@ -1,5 +1,5 @@
-# Lab X
+# Lab 05
 
-> Edit this file and describe in a few words what you've done in this lab.
-
-
+## 5.2 Letter Tree
+	Implementation was straight forward by modifying the given code.
+	Maximum and minimum were computed by 'moving' as far right and respectively left as possible within the tree.
