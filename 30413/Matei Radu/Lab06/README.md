@@ -1,5 +1,6 @@
-# Lab X
+# Lab 06
 
-> Edit this file and describe in a few words what you've done in this lab.
+##Problem 6.3.1
 
+Implemented a rolling polynomial hash with conflict resolution by chaining
 
