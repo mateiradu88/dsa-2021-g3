@@ -1,5 +1,3 @@
-# Lab X
+# Lab07
 
-> Edit this file and describe in a few words what you've done in this lab.
-
-
+I already had general knowledge about the subjects discused in this lab, and had no trouble following it. I have already spent a very long time working with graphs but the referesher was welcomed.
