@@ -1,5 +1,5 @@
-# Lab X
+# Lab 09
 
-> Edit this file and describe in a few words what you've done in this lab.
+Solved problem 9.3.1
 
 
